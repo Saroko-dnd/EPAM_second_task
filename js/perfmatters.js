@@ -4,7 +4,7 @@ window.onload = SetNewMediaForLink;
 function SetNewMediaForLink ()
 {
     document.getElementById('LinkWithWrongMedia').media = 'all';
-    document.getElementById('FontsStylesheet').media = 'all';
+    document.getElementById('GoogleFontsStyleSheet').media = 'all';
 }
    
 function logCRP() {
