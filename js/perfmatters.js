@@ -5,7 +5,8 @@ window.onload = EnableCss;
 
 function EnableCss()
 {
-  
+    document.getElementById("CssWithNoneMedia_1").setAttribute("media", "all");
+    document.getElementById("CssWithNoneMedia_2").setAttribute("media", "all");
 }
 
 function logCRP() {
