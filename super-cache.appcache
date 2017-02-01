@@ -1,0 +1,11 @@
+CACHE MANIFEST
+css/style.css
+css/print.css
+js/perfmatters.js
+https://www.google-analytics.com/analytics.js
+
+NETWORK:
+https://fonts.googleapis.com/css?family=Open+Sans:400,700
+
+FALLBACK:
+index.html
